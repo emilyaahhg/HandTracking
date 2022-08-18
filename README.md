@@ -49,4 +49,4 @@ python VirtualPainter.py
   * mediapipe==0.8.10.1
 
 ###### Reference:
- Yotube Link: [link](https://www.youtube.com/watch?v=ZiwZaAVbXQo)
+ Tutorial Video: [AI Virtual Painter | OpenCV Python | Computer Vision](https://www.youtube.com/watch?v=ZiwZaAVbXQo)
