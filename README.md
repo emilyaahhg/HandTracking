@@ -1,6 +1,7 @@
 # Virtual-Painter-Project
 
 Python version 3.10.5
+
 Virtual Painter is a painting app but not a normal painting app it will work on your camera,
 as soon as you open it a camera will pop then you need to show your hand with all five fingers 
 open use one finger for painting and two fingers for selection of brush and eraser.
